@@ -7,7 +7,7 @@ I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com).
 - 🎒 I love using Emacs.
 - 🔑 Reach me securely via [Keybase](https://keybase.io/junweiwang).
 
-[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=junwei-wang)](https://github.com/anuraghazra/github-readme-stats)
+[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=junwei-wang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
