@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="25" height="25" />](https://scholar.google.com/citations?user=GNG2enMAAAAJ) [<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/dblp.svg" width="25" height="25" />](https://dblp.uni-trier.de/pid/81/4816-3.html) 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" width="25" height="25" />](https://twitter.com/junwei_wang)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin-in.svg" width="25" height="25" />](https://www.linkedin.com/in/junweiwang/)
+[<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="25" height="25" />](https://scholar.google.com/citations?user=GNG2enMAAAAJ) [<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/dblp.svg" width="25" height="25" />](https://dblp.uni-trier.de/pid/81/4816-3.html) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" width="22" height="22" />](https://twitter.com/junwei_wang) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin-in.svg" width="22" height="22" />](https://www.linkedin.com/in/junweiwang/)
