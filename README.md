@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. in cryptography.
-I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com).
+I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com). 
 
 - 🔭 I’m currently working on [white-box cryptography](http://cryptowiki.net/index.php?title=White-box_cryptography_and_software_code_cryptographic_obfuscation#Cryptosystem_models_and_white-box_cryptography).
 - 🎒 I love using Emacs.
