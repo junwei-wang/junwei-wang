@@ -2,6 +2,8 @@
 
 I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com). 
 
+I write code for security and privacy.
+
 - 🔭 I’m currently working on [white-box cryptography](http://cryptowiki.net/index.php?title=White-box_cryptography_and_software_code_cryptographic_obfuscation#Cryptosystem_models_and_white-box_cryptography).
 - 🎒 I love using Emacs.
 - 🔑 Reach me securely via [Keybase <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/keybase.svg" width="15" height="15" >](https://keybase.io/junweiwang).
