@@ -5,7 +5,7 @@ I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com).
 I write code for security and privacy.
 
 - 🔭 I’m currently working on [white-box cryptography](http://cryptowiki.net/index.php?title=White-box_cryptography_and_software_code_cryptographic_obfuscation#Cryptosystem_models_and_white-box_cryptography) and privacy-preserving cryptography.
-- 🎒 I love using Emacs.
+- 🎒 I love using Emacs. Check out [my config](https://github.com/junwei-wang/chezmoi/tree/main/dot_doom.d).
 - 🔑 Reach me securely via [keybase](https://keybase.io/junweiwang) or send a mail to [me@jwa.ng](mailto:me@jwa.ng).
 - 🕸️ You can also find me in  [google scholar](https://scholar.google.com/citations?user=GNG2enMAAAAJ) / [dblp](https://dblp.uni-trier.de/pid/81/4816-3.html) / [twitter](https://twitter.com/junwei_wang) / [linkedin](https://www.linkedin.com/in/junweiwang/).
 
