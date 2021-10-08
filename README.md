@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a cryptography engineer. 
-
-I write code for security and privacy.
+I am a cryptography engineer. I write code for security and privacy.
 
 - 🔭 I’m currently working on [white-box cryptography](http://cryptowiki.net/index.php?title=White-box_cryptography_and_software_code_cryptographic_obfuscation#Cryptosystem_models_and_white-box_cryptography) and privacy-preserving cryptography.
 - 🎒 I love using Emacs. Check out [my config](https://github.com/junwei-wang/chezmoi/tree/main/dot_doom.d).
