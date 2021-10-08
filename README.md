@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com). 
+I am a cryptography engineer. 
 
 I write code for security and privacy.
 
